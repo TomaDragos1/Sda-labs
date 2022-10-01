@@ -1,0 +1,6 @@
+Ionut:32
+Alex:30
+Andra:10
+Austin:20
+Mama:49
+Tata:34

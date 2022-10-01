@@ -1,0 +1,4 @@
+insert A asteptat sa iasa toti din vestiar,  pentru a nu fi vazut 
+insert Ana ia aminte
+insert muie la cai si la toti toti toti
+print
